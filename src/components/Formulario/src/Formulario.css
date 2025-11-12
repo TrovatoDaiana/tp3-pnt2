@@ -1,0 +1,9 @@
+.card-header {   
+  background-color: #cface7; 
+  color: aliceblue; 
+}
+label{
+  text-transform: capitalize;
+  margin-top: 15px;
+}
+.formulario { max-width: 900px; margin: 0 auto; }
